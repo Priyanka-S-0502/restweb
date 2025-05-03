@@ -490,8 +490,6 @@ contact.html
 </html>
 ```
 
-
-
 ## OUTPUT:
 ![alt text](<Screenshot 2025-05-03 224109.png>)
 ![alt text](<Screenshot 2025-05-03 224147.png>)
